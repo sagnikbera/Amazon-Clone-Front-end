@@ -10,3 +10,4 @@ This project is a static clone of the Amazon web application, showcasing a respo
 <h5>Static Content:</h5> Implement static content to simulate the appearance of a functional streaming service.
 
 <h3>Live Link</h3>
+https://sagnikbera.github.io/Amazon-Clone-Front-end/
